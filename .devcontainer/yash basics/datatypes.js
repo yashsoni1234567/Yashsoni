@@ -25,3 +25,5 @@ let city;
 
 console.log(typeof undefined); // op (undefined)
 console.log(typeof null); // op (object)
+
+
